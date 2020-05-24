@@ -1,0 +1,28 @@
+! ** JCreator Project File (C)2000
+! ********** DO NOT EDIT *********
+
+VERSION := "1.10"
+LABEL := "benz"
+JDKPROFILE := ""
+ACTIVE := "1"
+OUTPUTPATH := "classes"
+COMPILER := ""
+
+! Start RunTime Configuration Structure
+#[BeginRunTime]LABEL := "<Default>" RUNAPPLIC := "<Default>" RUNAPPLET := "<Default>" RUNDEBUG := "<Default>" PARAM := "" RUN := "login" CHECK := "10" #[EndRunTime]
+! Start Required Libraries Structure
+
+! Start Project Folder Structure
+#[BeginFolder]
+LABEL := "Root"
+FILTER := ""
+
+#[BeginFile]SOURCE := "Spares.java" #[EndFile]
+#[BeginFile]SOURCE := "mainfrm.java" #[EndFile]
+#[BeginFile]SOURCE := "\\CashMemo.java" #[EndFile]
+#[BeginFile]SOURCE := "\\specification.java" #[EndFile]
+#[BeginFile]SOURCE := "\\Purchase.java" #[EndFile]
+#[BeginFile]SOURCE := "\\login.java" #[EndFile]
+#[BeginFile]SOURCE := "\\Benz.java" #[EndFile]
+#[BeginFile]SOURCE := "Services.java" #[EndFile]
+#[EndFolder]
